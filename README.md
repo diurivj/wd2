@@ -8,3 +8,5 @@
 * `cat` - Concatenate files - Muestra el contenido de un archivo
 * `ls -a` - List files -All - Lista todos los archivos, incluyendo ocultos
 * `source` - Execute file in bash - Ejecuta un archivo en el bash
+* `rm -rf` - Borra todo ALV - Peligroooo, usenlo con precaución :skull:
+* `clear` - Clear - Limpia el bash
