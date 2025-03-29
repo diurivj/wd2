@@ -1,0 +1,21 @@
+1. Crear la carpeta "coding" que deberia de estar en /Users/suusuario/coding
+	mkdir - crea el directorio
+	cd - cambia de directorio
+
+2. Entren al directorio coding
+	cd ~/coding
+
+3. Abrir Visual Studio Code desde ese directorio
+	code .
+
+4. Crear un archivo que se llame mi-primer-markdown.md
+
+5. Investigar la sintaxis de markdown para escribir el siguiente articulo
+	
+	Nombre
+
+	A que se dedican
+
+	Hobbies
+
+	La receta de su comida favorita
